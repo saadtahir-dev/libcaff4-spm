@@ -1,0 +1,4 @@
+module Ccaff4 {
+    header "libaff4-c.h"
+    export *
+}
